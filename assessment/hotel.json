@@ -1,0 +1,38 @@
+[
+    {
+        "name": "BBQ",
+        "city": "Mysore",
+        "type": "Veg",
+        "cuisine": ["Indian", "Italian"]
+    },
+    {
+        "name": "Mylari Hotel",
+        "city": "Mysore",
+        "type": "Veg",
+        "cuisine": ["Indian"]
+    },
+    {
+        "name": "Leela Palace",
+        "city": "Banglore",
+        "type": "Non-Veg",
+        "cuisine": ["Indian", "Chinese", "Arabian"]
+    },
+    {
+        "name": "Donne Biriyani",
+        "city": "Hyderabad",
+        "type": "Non-Veg",
+        "cuisine": ["Italian", "Chinese"]
+    },
+    {
+        "name": "Mookambika Hotel",
+        "city": "Chennai",
+        "type": "Non-Veg",
+        "cuisine": ["Arabian", "Chinese"]
+    },
+    {
+        "name": "Chiru Hotel",
+        "city": "Chennai",
+        "type": "Veg",
+        "cuisine": ["Indian"]
+    }
+]
